@@ -1,0 +1,31 @@
+{
+    "name": "editor",
+    "version": "1.0.0",
+    "status": "",
+    "package":"editor",
+    "type": "module",
+    "app": "*",
+    "privilege": "*",
+    "description": "Supplies various kinds of editors for various other modules.",
+    "keywords": "logiks,modules,editor",
+    "license": "MIT",
+    "marketid": "",
+    "homepage": "https://github.com/LogiksPlugins/editor",
+    "bugs": "https://github.com/LogiksPlugins/editor/issues",
+    "private": false,
+    "permissions": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LogiksPlugins/editor.git"
+    },
+    "authors": [
+        {
+            "name": "OpenLogiks Team",
+            "email": "admin@openlogiks.org",
+            "authorid":"olgksadmin"
+        }
+    ]
+}
